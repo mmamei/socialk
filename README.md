@@ -26,9 +26,9 @@ Data and code to analyze the relationship between synchronization index and trad
 
 ## Contributors
 
-Marco Mamei (marco.mamei@unimore.it)
-Francesca Pancotto (francesca.pancotto@unimore.it)
-Marco De Nadai (denadai@fbk.eu)
-Bruno Lepri (lepri@fbk.eu)
+* Marco Mamei (marco.mamei@unimore.it)
+* Francesca Pancotto (francesca.pancotto@unimore.it)
+* Marco De Nadai (denadai@fbk.eu)
+* Bruno Lepri (lepri@fbk.eu)
 
 
